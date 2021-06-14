@@ -1,4 +1,4 @@
-### Hi there my name is Muhammad Tsaqif, i'm currently studying at telkom university
+### Hi there my name is Muhammad Tsaqif, i'm currently studying at telkom university.
 
 <!--
 **muhammad-tsaqif/muhammad-tsaqif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
